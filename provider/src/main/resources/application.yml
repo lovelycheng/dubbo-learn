@@ -1,0 +1,6 @@
+dubbo:
+  application:
+    name: ${spring.application.name}
+
+server:
+  port: 8998
